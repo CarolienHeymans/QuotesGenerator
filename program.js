@@ -1,30 +1,15 @@
 var quotes = [
 	{
-		quote: 'Design is not just what it looks like and feels like. Design is how it works.'
+		quote: 'Knufjes!'
 	},
 	{
-		quote: 'Innovation distinguishes between a leader and a follower.'
+		quote: 'Stomkop'
 	},
 	{
-		quote: 'Reality is merely an illusion, albeit a very persistent one.'
+		quote: 'Flapoor'
 	},
 	{
-		quote: "If you can't explain it simply, you don't understand it well enough."
-	},
-	{
-		quote: 'Strive not to be a success, but rather to be of value.'
-	},
-	{
-		quote: 'Your time is limited, so don’t waste it living someone else’s life.'
-	},
-	{
-		quote: "Success is a lousy teacher. It seduces smart people into thinking they can't lose."
-	},
-	{
-		quote: 'Science without religion is lame, religion without science is blind.'
-	},
-	{
-		quote: 'Whether you think you can or you think you can’t, you’re right.'
+		quote: 'Als jij doodgaat mag ik je nijntjes, he?'
 	}
 ];
 
